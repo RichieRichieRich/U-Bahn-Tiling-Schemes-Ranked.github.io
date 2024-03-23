@@ -9,7 +9,8 @@ p {
     color: maroon;
     margin-left: 40px;
 }
-li {
+ol li{
+    background: wheat;
     color: maroon;
     margin-left: 40px;
 }
