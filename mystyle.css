@@ -1,9 +1,9 @@
 body {
+    opacity: 0.1;
     background-image: url(Map.png);
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
-    opacity: .5;
 }
 h1 {
     color: maroon;
