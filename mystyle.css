@@ -1,8 +1,16 @@
 body {
-    opacity: 0.1;
+    /*opacity: 0.1;
     background-image: url(Map.png);
     background-position: center; 
     background-repeat: no-repeat; 
+    background-size: cover;*/
+}
+
+.background {
+    opacity: 0.1;
+    background-image: url(Map.png);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
 }
 h1 {
