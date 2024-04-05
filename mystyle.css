@@ -1,6 +1,6 @@
 body {
-    opacity: 0.1;
-    background-image: url(Map.png);
+    opacity: 1;
+    background-image: url(newmap.png);
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
