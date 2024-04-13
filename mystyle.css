@@ -30,15 +30,15 @@ body {
 
 h1 {
     position: relative;
-    color: maroon;
+    color: black;
     text-align: center;
 }
 p {
-    color: maroon;
+    color: black;
     margin-left: 40px;
 }
 ol li{
-    color: maroon;
+    color: black;
     margin-left: 40px;
 }
 
